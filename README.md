@@ -1,4 +1,5 @@
 # Web-App-5
+<h2>Eesti keel</h2>
 
 Projekti puhastamiseks peate alla laadima Pythoni - https://www.python.org/downloads/release/python-3100/<br>
 <br>
@@ -10,6 +11,7 @@ Ja aktiveerige see terminali käsuga - <b>venv/Scripts/activate</b>   (Windows o
 See järel käivitame projekti käsuga - <b>python app.py</b><br>
 
 <hr>
+<h2>English</h2>
 
 To clean up the project, you need to download Python from https://www.python.org/downloads/release/python-3100/<br>
 <br>
